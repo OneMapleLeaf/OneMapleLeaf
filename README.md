@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Information Technology Student (2nd Year) from DHVSU at Philippines
+- 🔭 I’m a Information Technology Student (2nd Year) 
 - 🌱 I’m currently learning Game Development (it's fun!) and also Web Development (Backend to be specific)
 - 👯 I’m looking to collaborate on projects that can help me improve my skill and craft
 - 🤔 I’m looking for help with mostly any programming related tips that I can apply since I am still learning
